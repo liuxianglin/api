@@ -1,0 +1,18 @@
+{
+    "name": "liuxianglin/api",
+    "type": "project",
+    "license": "MIT",
+    "authors": [{
+        "name": "liuxianglin",
+        "email": "1414250225@qq.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "liuxianglin\\Api\\": "src"
+        }
+    }
+}
